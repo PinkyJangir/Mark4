@@ -1,12 +1,15 @@
 .main_portfolio{height: 180px;
     background-color:#d49ab1 ;
     padding: 5px;
-    border-bottom-left-radius: 3rem;
+    border-bottom-left-radius: 5rem;
 }
-.name{
-    position: relative;
-    top: -40px;
-    font-size: 40px;
+
+div h1 {
+    text-align: center;
+    margin: auto;
+}
+.head {
+    padding-top: 4rem;
 }
 .h{font-size: 20px;
     position: relative;
@@ -27,6 +30,7 @@
 }
 .co{
     color: black;
+    margin-top: 4rem;
 }
 .button {
   display: inline-block;
@@ -100,9 +104,8 @@ color: darkslateblue;
 }
 .sec_link{
     float: left;
-    margin-left: 110px;
+    margin-left: 4rem;
     margin-top: 20px;
-    
 }
 .link{
     float: left;
@@ -114,4 +117,13 @@ color: darkslateblue;
     margin-left: 100px;
     margin-top: 20px;
    
+}
+
+.S {
+    text-align: center;
+
+}
+
+.discription {
+    margin-top: 6rem;
 }
