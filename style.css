@@ -1,0 +1,117 @@
+.main_portfolio{height: 180px;
+    background-color:#d49ab1 ;
+    padding: 5px;
+    border-bottom-left-radius: 3rem;
+}
+.name{
+    position: relative;
+    top: -40px;
+    font-size: 40px;
+}
+.h{font-size: 20px;
+    position: relative;
+    left: 1010px
+}
+.pr{font-size: 20px;
+    position: relative;
+    top: -23px;
+    left: 1090px
+    
+}
+
+.bl{
+    font-size: 20px;
+    position: relative;
+    top: -47px;
+    left: 1190px;
+}
+.co{
+    color: black;
+}
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.button{
+    color:#d49ab1;
+    background-color: aquamarine;
+}
+.link{
+    font-size: 22px;
+    color: black;
+}
+.my_blog{
+    color: black;
+}
+.my{
+    color: black;
+}
+.line{
+    color: darkslateblue;
+}
+.h{
+    color: black;
+}
+.git{
+    color:blue;
+}
+.ins{
+    color: darkslateblue;
+}
+.vi{
+    color: darkslateblue;
+}
+.vis{
+    color:darkslateblue;
+}
+.gi{
+    color: blue;
+}
+.hub{
+    color: darkslateblue;
+}
+.com{
+    color: blue;
+}
+.add{
+color: darkslateblue;
+}
+.file{
+    color: blue;
+}
+.p{
+    color: blue;
+}
+.push{
+    color: darkslateblue;
+}
+.skills{
+    color: black;
+}
+.sec_link{
+    float: left;
+    margin-left: 110px;
+    margin-top: 20px;
+    
+}
+.link{
+    float: left;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.third_link{
+    float: left;
+    margin-left: 100px;
+    margin-top: 20px;
+   
+}
