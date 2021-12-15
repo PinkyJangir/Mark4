@@ -121,9 +121,19 @@ color: darkslateblue;
 
 .S {
     text-align: center;
+    margin-bottom: 2rem;
 
 }
 
 .discription {
     margin-top: 6rem;
+}
+.G{
+    text-align: center;
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+    background-color:lightgreen ;
+    border-radius: 1rem;
+
 }
